@@ -1,4 +1,4 @@
-### Problem Statement:
+### Problem Statement: 
 
 In many industries, handwritten forms and documents are still prevalent, especially in fields like **postal services**, **banking**, and **healthcare**. Processing handwritten digits such as zip codes, check amounts, or patient ID numbers can be tedious, error-prone, and slow. However, AI-powered systems using **machine learning** models like **Convolutional Neural Networks (CNNs)** can automate and streamline this process by accurately recognizing and extracting digits from scanned images or handwritten notes.
 
